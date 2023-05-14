@@ -188,7 +188,7 @@ text-align: center;
 border-bottom: dotted  ;
 }
 
-#enviar{
+#enviar, #borrar, #resumen {
 background-color: #96C93E;
 border: none;
 }
@@ -206,4 +206,8 @@ font-size: medium;
 #cards{
 width: 55%;
 margin-left: 23%;
+}
+
+#fondo-resumen{
+background-color: #CCE5FF;
 }
