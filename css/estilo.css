@@ -203,11 +203,16 @@ font-weight: 400;
 font-size: medium;
 }
 
+/*comprar tickets*/
 #cards{
 width: 55%;
 margin-left: 23%;
 }
-
-#fondo-resumen{
+/*fondo del resultado*/
+#fondo-total{
 background-color: #CCE5FF;
+color: #1E516E;
+padding: 2%;
+margin: 2% 0;
+padding-left: 4%;
 }
