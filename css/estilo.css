@@ -216,3 +216,16 @@ padding: 2%;
 margin: 2% 0;
 padding-left: 4%;
 }
+
+/*Lista de oradores*/
+#ListOradores{
+    color: #11c249;
+    margin-top: 3%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+td{
+font-size: large;
+color: #161718;
+}
